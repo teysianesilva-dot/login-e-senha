@@ -7,5 +7,6 @@ const menssege = document.getElementById("menssege")
 form.addEventListener("submit", function( event)) { 
     Event.preventdefault();//impede o carregamento da pagina
 
-    
+// pegando os valores digitados
+const username =     
 }
